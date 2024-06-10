@@ -1,0 +1,26 @@
+{
+    "cmake.configureOnOpen": false,
+    "C_Cpp.default.includePath": [
+      "${workspaceFolder}/**",
+    ],
+    "files.associations": {
+      "device.h": "c",
+      "socket.h": "c",
+      "device_runtime.h": "c",
+      "string.h": "c",
+      "log.h": "c",
+      "net_if.h": "c",
+      "dns_resolve.h": "c",
+      "shell.h": "c",
+      "telit-mex10g1.h": "c",
+      "iterable_sections.h": "c",
+      "uart.h": "c",
+      "mongoose.h": "c",
+      "net_sockets.h": "c",
+      "kernel.h": "c",
+      "telit-modem.h": "c",
+      "ratio": "c",
+      "*.inc": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}

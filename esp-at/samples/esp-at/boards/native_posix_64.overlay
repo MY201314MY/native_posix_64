@@ -1,0 +1,11 @@
+/ {
+    aliases {
+		modem-uart = &uart0;
+		modem = &modem;
+	};
+    
+    modem: modem {
+        compatible = "telit,mex10g1";
+        status = "okay";
+    };
+};
